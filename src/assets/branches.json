@@ -1,0 +1,34 @@
+[
+  {
+    "name": "contact",
+    "commit": {
+      "sha": "344d79bee59a415f6dcb7d61aa4e61e0ecfe276f",
+      "url": "https://api.github.com/repos/bartoszprojects/jubiler/commits/344d79bee59a415f6dcb7d61aa4e61e0ecfe276f"
+    },
+    "protected": false
+  },
+  {
+    "name": "master",
+    "commit": {
+      "sha": "89d1a1e5b31318efca82bfa3836c3a56d735be83",
+      "url": "https://api.github.com/repos/bartoszprojects/jubiler/commits/89d1a1e5b31318efca82bfa3836c3a56d735be83"
+    },
+    "protected": false
+  },
+  {
+    "name": "temporary",
+    "commit": {
+      "sha": "cdfbd911305753349e58132509977f08aa699365",
+      "url": "https://api.github.com/repos/bartoszprojects/jubiler/commits/cdfbd911305753349e58132509977f08aa699365"
+    },
+    "protected": false
+  },
+  {
+    "name": "tomek",
+    "commit": {
+      "sha": "11786736411e4d77fdea8910ac753d2d15fd9369",
+      "url": "https://api.github.com/repos/bartoszprojects/jubiler/commits/11786736411e4d77fdea8910ac753d2d15fd9369"
+    },
+    "protected": false
+  }
+]

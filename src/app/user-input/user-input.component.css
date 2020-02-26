@@ -1,0 +1,29 @@
+.local-input-wrapper {
+  margin: auto;
+  padding: 40px;
+}
+.local-input-wrapper p {
+  margin: 2px;
+  padding: 2px;
+}
+.local-input-wrapper p:nth-child(2) {
+  font-size: 11px;
+  color: #67727d;
+}
+.local-input-wrapper input {
+  margin: 15px;
+  padding: 10px;
+  min-width: 50%;
+  color: #b58226;
+  border: 1px solid orange;
+  border-radius: 30px;
+  background: white;
+}
+.local-input-wrapper input:focus {
+  outline: none;
+}
+.local-input-wrapper .search-text {
+  font-size: 14px;
+}
+
+/*# sourceMappingURL=user-input.component.css.map */

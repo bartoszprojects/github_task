@@ -1,0 +1,9 @@
+<div class="local-input-wrapper">
+
+  <p>Type any username of github.com to check repositories and other data of this user</p>
+  <p>When you stop typing the username then app will start receiving the data!</p>
+  <input #searchGitHub [(ngModel)]="data_from_input"/>
+  <p class="search-text">searching for: <span style="color: #bd8d35">{{data_from_input}}</span></p>
+
+</div>
+
